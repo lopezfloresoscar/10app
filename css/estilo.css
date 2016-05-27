@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+#principal {
+  position:absolute;
+  left:0;
+  top:0;
+  width:100%;
+  height: 100%;	
+}
+#pantalla{
+  float:left;
+  width:100%;
+  height:25%;
+  background:#0F0;
+  text-align:center;
+  color:#000;
+  font-size:4em;
+  font-weight:bold;
+  font-family:"Times New Roman", Times, serif;
+}
+#teclado{
+  float: left;
+  width: 100%;
+  height: 75%;
+}
+.nota{
+	position::relative;
+	float:left;
+	height:100%;
+	outline:#000 solid 3px;
+	background: #00F;
+    width:7.142856%;
+}
+.nota1 {
+	top:12%;
+	position:absolute;
+	float:left;
+	height: 40%;
+	background-color:#000;
+}
+.textonota{
+	position:relative;
+	top:80%;
+	text-align:center;
+	font-size:1.5em;
+	font-weight:bold;
+	color:#000;
+
+}
+
+#doS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:5%;
+}
+#reS{
+	margin-top:12.5%;
+    width:30px;
+	height:40%;
+	float:left;
+	margin-left:12%;
+}
+#faS{
+	margin-top:12.5%;
+    width:30px;
+	height:40%;
+	float:left;
+	margin-left:26%;
+}
+#solS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:33%;
+}
+#laS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:40%;
+}
+#doSS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:54%;
+}
+#reSS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:61%;
+}
+#faSS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:75%;
+}
+#solSS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:82%;
+}
+#laSS{
+	margin-top:12.5%;
+	width:30px;
+	height:40%;
+	float:left;
+	margin-left:89%;
+}
